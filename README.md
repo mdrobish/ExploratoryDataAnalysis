@@ -54,6 +54,10 @@ Code:  [plot4.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master
 ####Question 5
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
+#####Solution: plot5.png 
+Code:  [plot5.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot5.R)
+![plot5.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot5.png)
+
 ####Question 6
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
