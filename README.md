@@ -61,6 +61,10 @@ Code:  [plot5.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master
 ####Question 6
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
+#####Solution: plot6.png 
+Code:  [plot6.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot6.R)
+![plot6.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot6.png)
+
 
 ####Making and Submitting Plotsless 
 
