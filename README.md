@@ -37,7 +37,7 @@ Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips 
 #####Solution: plot2.png 
 ![plot2.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.png)
 
-Code:  [plot1.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.R)
+Code:  [plot2.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.R)
 
 
 ####Question 3
