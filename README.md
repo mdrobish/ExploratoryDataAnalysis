@@ -34,6 +34,12 @@ Code:  [plot1.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master
 ####Question 2
 Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
 
+#####Solution: plot2.png 
+![plot2.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.png)
+
+Code:  [plot1.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.R)
+
+
 ####Question 3
 Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 
