@@ -20,7 +20,9 @@ rm("NEI")
 
 
 #Aggregate total Emissions by years
-by_year <- group_by(nei_df, year)
+baltimore_df <- filter(nei_df, fips == "24510")
+
+by_year <- group_by(baltimore_df, year)
 year_emissions <- summarize(by_year, 
                             count= n(), 
                             total=sum(Emissions),
@@ -29,6 +31,6 @@ year_emissions <- summarize(by_year,
 )
 
 #Create bar chart and .png file
-png('plot1.png')
-with(year_emissions/10^6, barplot(height=total, names.arg=year, xlab="Year", ylab=expression('Total PM'[2.5]*' Emission (10^6)'), main=expression('Total PM'[2.5]*' emissions From All US Sources')))
+png('plot2.png')
+with(year_emissions, barplot(height=total, names.arg=year, xlab="Year", ylab=expression('Total PM'[2.5]*' Emission'), main=expression('Total PM'[2.5]*' emissions From Baltimore Sources')))
 dev.off()
