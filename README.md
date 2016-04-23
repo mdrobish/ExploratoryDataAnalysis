@@ -27,41 +27,29 @@ You must address the following questions and tasks in your exploratory analysis.
 Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 #####Solution: plot1.png 
-![plot1.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot1.png)
-
 Code:  [plot1.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot1.R)
-
-
+![plot1.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot1.png)
 
 ####Question 2
 Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
 
 #####Solution: plot2.png 
-![plot2.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.png)
-
 Code:  [plot2.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.R)
-
-
+![plot2.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot2.png)
 
 ####Question 3
 Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 
 #####Solution: plot3.png 
-![plot3.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.png)
-
 Code:  [plot3.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.R)
-
-
+![plot3.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.png)
 
 ####Question 4
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
 #####Solution: plot4.png 
-![plot4.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot4.png)
-
 Code:  [plot4.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot4.R)
-
-
+![plot4.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot4.png)
 
 ####Question 5
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
