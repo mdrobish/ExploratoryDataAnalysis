@@ -49,9 +49,14 @@ Of the four types of sources indicated by the type (point, nonpoint, onroad, non
 Code:  [plot3.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.R)
 
 
-
 ####Question 4
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
+
+#####Solution: plot4.png 
+![plot4.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot4.png)
+
+Code:  [plot4.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot4.R)
+
 
 ####Question 5
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
