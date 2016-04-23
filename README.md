@@ -43,7 +43,7 @@ Code:  [plot2.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master
 ####Question 3
 Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 
-#####Solution: plot2.png 
+#####Solution: plot3.png 
 ![plot3.png](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.png)
 
 Code:  [plot3.R](https://github.com/mdrobish/ExploratoryDataAnalysis/blob/master/plot3.R)
